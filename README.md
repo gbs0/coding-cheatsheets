@@ -10,7 +10,7 @@
 > *Cheatsheet for `Emmet`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/emmet-cheatsheet.pdf)
 
 ### **Git**
-> *Cheatsheet for `Git`:* [Cheatsheet](https://www.google.com)
+> *Cheatsheet for `Git`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/git-cheatsheet.pdf)
 
 ### **HTML**
 > *Cheatsheet for `HTML`:* [Cheatsheet](https://www.google.com)
