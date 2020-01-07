@@ -1,10 +1,10 @@
 # `Cheatsheets`
-> **Repositório contento várias folhas de dicas com as principais linguagens/sintaxes utilizadas**
+**Repositório contento várias folhas de dicas com as principais linguagens/sintaxes utilizadas**
 
 ### Indíce:
 
 ### **CSS**
-> *Cheatsheet for `CSS`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/emmet-cheatsheet.pdf)
+> *Cheatsheet for `CSS`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/CSS-cheatsheet.pdf)
 
 ### **Emmet**
 > *Cheatsheet for `Emmet`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/emmet-cheatsheet.pdf)
