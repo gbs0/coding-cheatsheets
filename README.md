@@ -21,6 +21,7 @@
 ### **Javascript**
 > *Cheatsheet for `Javascript`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/javascript-cheatsheet.pdf)
 
+```
 ### **MySQL**
 > *Cheatsheet for `MySQL`:* [Cheatsheet](https://www.google.com)
 
@@ -29,5 +30,7 @@
 
 ### **Ruby on Rails**
 > *Cheatsheet for `Ruby on Rails`:* [Cheatsheet](https://www.google.com)
+
+``
 
 Todos os direitos reservados aos respectivos autores.
