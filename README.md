@@ -16,7 +16,7 @@
 > *Cheatsheet for `HTML`:* [Cheatsheet](https://www.google.com)
 
 ### **Javascript**
-> *Cheatsheet for `Javascript`:* [Cheatsheet](https://www.google.com)
+> *Cheatsheet for `Javascript`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/javascript-cheatsheet.pdf)
 
 ### **MySQL**
 > *Cheatsheet for `MySQL`:* [Cheatsheet](https://www.google.com)
