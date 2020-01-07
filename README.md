@@ -15,6 +15,9 @@
 ### **HTML**
 > *Cheatsheet for `HTML`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/html5-cheatsheet.pdf)
 
+### **HTML5 (Modern Canvas, Media Types, Responsive Design, Animation)**
+> *Cheatsheet for `HTML5`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/htmlcanvas-cheatsheet.pdf)
+
 ### **Javascript**
 > *Cheatsheet for `Javascript`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/javascript-cheatsheet.pdf)
 
