@@ -15,15 +15,15 @@
 ### **HTML**
 > *Cheatsheet for `HTML`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/html5-cheatsheet.pdf)
 
-### **HTML5 (Modern Canvas, Media Types, Responsive Design, Animation)**
+### **HTML5 (Modern Canvas, Media Types, Responsive Design, Animations)**
 > *Cheatsheet for `HTML5`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/htmlcanvas-cheatsheet.pdf)
 
 ### **Javascript**
 > *Cheatsheet for `Javascript`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/javascript-cheatsheet.pdf)
 
-```
 ### **MySQL**
 > *Cheatsheet for `MySQL`:* [Cheatsheet](https://www.google.com)
+
 
 ### **Ruby**
 > *Cheatsheet for `Ruby`:* [Cheatsheet](https://www.google.com)
@@ -31,6 +31,6 @@
 ### **Ruby on Rails**
 > *Cheatsheet for `Ruby on Rails`:* [Cheatsheet](https://www.google.com)
 
-``
+
 
 Todos os direitos reservados aos respectivos autores.
