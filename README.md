@@ -22,7 +22,7 @@
 > *Cheatsheet for `Javascript`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/javascript-cheatsheet.pdf)
 
 ### **JQuery**
-> *Cheatsheet for `JQuery`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/mysql-cheatsheet.pdf)
+> *Cheatsheet for `JQuery`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/jquery-cheatsheet.pdf)
 
 ### **MySQL**
 > *Cheatsheet for `MySQL`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/mysql-cheatsheet.pdf)
