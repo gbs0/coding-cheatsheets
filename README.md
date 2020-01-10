@@ -21,8 +21,11 @@
 ### **Javascript**
 > *Cheatsheet for `Javascript`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/javascript-cheatsheet.pdf)
 
+### **JQuery**
+> *Cheatsheet for `JQuery`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/mysql-cheatsheet.pdf)
+
 ### **MySQL**
-> *Cheatsheet for `MySQL`:* [Cheatsheet](https://www.google.com)
+> *Cheatsheet for `MySQL`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/mysql-cheatsheet.pdf)
 
 
 ### **Ruby**
