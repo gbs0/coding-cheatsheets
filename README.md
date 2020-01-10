@@ -29,10 +29,10 @@
 
 
 ### **Ruby**
-> *Cheatsheet for `Ruby`:* [Cheatsheet](https://www.google.com)
+> *Cheatsheet for `Ruby`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/ruby-cheatsheet.pdf)
 
 ### **Ruby on Rails**
-> *Cheatsheet for `Ruby on Rails`:* [Cheatsheet](https://www.google.com)
+> *Cheatsheet for `Ruby on Rails`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/ror-cheatsheet.pdf)
 
 
 
