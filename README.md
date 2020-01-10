@@ -36,4 +36,4 @@
 
 
 
-Todos os direitos reservados aos respectivos autores.
+© Todos os direitos reservados aos respectivos autores.
