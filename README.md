@@ -27,6 +27,8 @@
 ### **MySQL**
 > *Cheatsheet for `MySQL`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/mysql-cheatsheet.pdf)
 
+### **Postgre SQL**
+> *Cheatsheet for `PostgreSQL`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/postgresql-cheatsheet.pdf)
 
 ### **Ruby**
 > *Cheatsheet for `Ruby`:* [Cheatsheet](https://github.com/gbs0/coding-cheatsheets/blob/master/ruby-cheatsheet.pdf)
